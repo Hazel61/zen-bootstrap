@@ -42,5 +42,5 @@
 [W3 BS4 cheatsheet](https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp)
 
 ### Online image optimizers
-[tinypng] (https://tinypng.com/)
+[tinypng](https://tinypng.com/)
 
