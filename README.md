@@ -40,3 +40,7 @@
 [SU Web Dev BS4 repo](https://github.com/suwebdev/wats3010-intro-to-bootstrap-4)
 
 [W3 BS4 cheatsheet](https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp)
+
+### Online image optimizers
+[tinypng] (https://tinypng.com/)
+
